@@ -15,7 +15,8 @@
 }
 
 #question p {
-  color: #8435de;
+  /* color: #8435de; */
+  color: #fff;
 }
 
 #question button {
